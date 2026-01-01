@@ -1,0 +1,16 @@
+site_name: FT Docs
+# repo_url: https://github.com/example/repository/
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+  name: readthedocs
+  locale: zh_CN
+  # logo: ./docs/img/FeitengGallifreyanLogo.jpg
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      separator: "_"
