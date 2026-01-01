@@ -1,5 +1,5 @@
 site_name: FT Docs
-# repo_url: https://github.com/example/repository/
+repo_url: https://github.com/FEITENG-0828/readthedocs_tutorial
 
 nav:
   - Home: index.md
